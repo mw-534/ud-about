@@ -1,2 +1,2 @@
 # ud-about
-Example on data binding.
+Android - example of data binding.
